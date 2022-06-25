@@ -19,7 +19,7 @@
     "@microsoft/signalr": "^3.1.9",
     "ecsy": "^0.4.2",
     "global": "^4.4.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "pkg": "^4.4.9",
     "ws": "^7.3.1"
   }
