@@ -17,7 +17,7 @@
     "@types/ws": "^7.2.6",
     "@vue/cli": "^4.5.12",
     "ecsy": "^0.4.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fp-ts": "^2.0.5",
     "global": "^4.4.0",
     "lambda-designer-js": "^1.0.19",
